@@ -1,0 +1,30 @@
+# float
+
+a = 5
+b = 7
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+
+# floor division //
+print(a//b)
+# exponent **
+print(a**b)
+
+# modulus %
+print(a % b)
+
+#
+
+
+
+
+
+# string
+
+name = "amal"
+print(name)
+data = '''amal 's resume'''
+quote = '''amal said that "ekm is amazing"'''
+print (data,quote)
